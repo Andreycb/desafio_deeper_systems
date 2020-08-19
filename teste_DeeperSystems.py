@@ -8,20 +8,20 @@ def ler_arquivo():
 data =  ler_arquivo()
 managers = defaultdict(list)
 
-for record in data:
-    project_name = record['name']
-    for manager in record['managers']:
-        managers[manager].append(project_name)
+for i in data:
+    name_proj = i['name']
+    for manager in i['managers']:
+        managers[manager].append(name_proj)
 
 with open('managers.json', 'w') as json_file:
     json.dump(managers, json_file, indent=4)
 
 watchers = defaultdict(list)
 
-for record in data:
-    project_name = record['name']
-    for watcher in record['watchers']:
-        watchers[watcher].append(project_name)
+for i in data:
+    name_proj = i['name']
+    for watcher in i['watchers']:
+        watchers[watcher].append(name_proj)
 
 with open('watchers.json', 'w') as json_file:
     json.dump(watchers, json_file, indent=4)
