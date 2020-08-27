@@ -1,68 +1,68 @@
 {
     "csaftoiu": [
-        "[CV] [Qt] OpenCV GUI",
-        "[OCR] tesseract MRZ reading ",
-        "unity render different passport text",
+        "matchbook parser - mfilho",
         "[template] unity render passport text",
-        "unity render diff passport text artur",
-        "sportsparsers - pinnacle API",
-        "matchbook parser - mfilho"
-    ],
-    "merlin": [
+        "unity render different passport text",
         "[CV] [Qt] OpenCV GUI",
-        "[Web] pm-site",
-        "python training lucas",
-        "python training alysson",
-        "unity render diff passport text - kennedy",
-        "Unity Render Passport Text [Template]",
-        "chess board finder eliaquim",
-        "[CHESS] Live Demo Executive",
-        "[EXECUTIVE] Merlin",
-        "[INHOUSE-TOOLS] NN-Webapp",
-        "[INHOUSE-TOOLS] Annotators app",
-        "[IOS-APPS] IOS streaming app",
-        "[IOS-APPS] IOS PI app",
-        "[HR] Candidate tests",
-        "[CHATBOT] merlin",
-        "[ID-VERIFY-PIPELINE] finger detector",
-        "[ID-VERIFY-PIPELINE] Background evaluator",
-        "[ID-VERIFY-PIPELINE] Passport finder",
-        "[CHATBOT] rodrigo",
-        "[BG-CLUB-SITE] frontend",
-        "[INHOUSE-TOOLS] NN-Webapp 2"
-    ],
-    "luanda": [
-        "Annotations"
+        "unity render diff passport text artur",
+        "[OCR] tesseract MRZ reading ",
+        "sportsparsers - pinnacle API"
     ],
     "morris": [
-        "Deepgammon",
-        "sportsparsers - tipster.de",
-        "sportsparsers - matchbook",
         "matchbook parser - mfilho",
+        "sportsparsers - matchbook",
         "sportsparsers - gg.bet",
         "sportsparsers - betway",
-        "Runningball Parser",
-        "sportsparsers - unikrn",
+        "sportsparsers - tipster.de",
         "sportsparsers - unibet",
+        "Runningball Parser",
+        "Deepgammon",
+        "sportsparsers - unikrn",
         "sportsparsers - esportscalendar",
         "sportsparsers - 22bet"
     ],
-    "arturc": [
-        "unity render diff passport text artur"
-    ],
-    "victor-mgr": [
-        "mateus silva bg deep checkers",
-        "Android Camera App rrocha",
-        "bg deep learning aporto",
-        "bg deep checkers rvalentim",
-        "tourney site famador",
-        "tourney site ariel",
-        "tourney site tbarbalho"
+    "merlin": [
+        "[INHOUSE-TOOLS] NN-Webapp 2",
+        "[BG-CLUB-SITE] frontend",
+        "[CHATBOT] rodrigo",
+        "[ID-VERIFY-PIPELINE] Passport finder",
+        "[ID-VERIFY-PIPELINE] Background evaluator",
+        "[CHATBOT] merlin",
+        "[HR] Candidate tests",
+        "[IOS-APPS] IOS PI app",
+        "[IOS-APPS] IOS streaming app",
+        "chess board finder eliaquim",
+        "Unity Render Passport Text [Template]",
+        "unity render diff passport text - kennedy",
+        "python training alysson",
+        "python training lucas",
+        "[CV] [Qt] OpenCV GUI",
+        "[INHOUSE-TOOLS] Annotators app",
+        "[INHOUSE-TOOLS] NN-Webapp",
+        "[CHESS] Live Demo Executive",
+        "[ID-VERIFY-PIPELINE] finger detector",
+        "[Web] pm-site",
+        "[EXECUTIVE] Merlin"
     ],
     "ariel": [
         "[BG-CLUB-SITE] frontend"
     ],
+    "victor-mgr": [
+        "tourney site tbarbalho",
+        "tourney site ariel",
+        "tourney site famador",
+        "bg deep checkers rvalentim",
+        "bg deep learning aporto",
+        "Android Camera App rrocha",
+        "mateus silva bg deep checkers"
+    ],
+    "arturc": [
+        "unity render diff passport text artur"
+    ],
     "victor": [
         "morris bg data gathering"
+    ],
+    "luanda": [
+        "Annotations"
     ]
 }
